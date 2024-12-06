@@ -1,6 +1,5 @@
 # 💫 About Me:
-Am 15 years old and studying about A.I and trying to work on robot soccer so I can participate in robocup
-
+I'm 16 years old and currently studying AI with a focus on robotics. My goal is to develop a simulation soccer team and participate in RoboCup.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/830768330612408330) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muwahid.ayaan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/muwahid_ayaan_again/) 
