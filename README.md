@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a sixteen year old kid, currently studying AI with a focus on robotics.
+I'm a seventeen-year-old kid, currently studying AI with a focus on robotics.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/830768330612408330) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muwahid.ayaan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/muwahid_ayaan_again/) 
